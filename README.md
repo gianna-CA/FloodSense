@@ -4,7 +4,7 @@ AI-Powered Agricultural Monitoring & Flood Detection
 Overview
 
 FloodSense is an intelligent dashboard designed to monitor agricultural health and provide early flood warnings. Built for farmers in regions like Kerala, it integrates real-time sensor data with AI insights to optimize crop management.
-🚀 Features
+    Features
 
     Real-time Monitoring: Tracks water levels, humidity, and soil conditions using ESP32 and IoT sensors.
 
@@ -14,7 +14,7 @@ FloodSense is an intelligent dashboard designed to monitor agricultural health a
 
     Cloud Backend: Powered by Firebase for real-time data storage and authentication.
 
-🛠️ Tech Stack
+ Tech Stack
 
     Frontend: HTML, CSS, JavaScript (Capacitor)
 
@@ -24,4 +24,3 @@ FloodSense is an intelligent dashboard designed to monitor agricultural health a
 
     Hardware: ESP32, JSN-SR04T Ultrasonic Sensor, TURBIDITY sensor, TDS SEnsor
 
-# FloodSense
